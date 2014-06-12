@@ -1,3 +1,9 @@
 To Do List
 =============
 =============
+
+•Add Entity Api to make Players Get Hostile Mobs without attack Player
+
+•Add a Possible Shop System In Config 
+
+•Add New Mobs from 0.9.0
