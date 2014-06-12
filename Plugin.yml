@@ -1,0 +1,6 @@
+Name: PetPlus
+Author: mcpe-gamer
+Version: Beta Build 1.0
+API: [1.0.0]
+Load: Startup
+Main: Plugin\Main
